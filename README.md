@@ -10,7 +10,8 @@ Tech Stack- HTML,CSS, JAVASCRIPT
 
 This project has been made as a part of internship program offered by @AscentAcademy.
 
-![Screenshot (4)](https://user-images.githubusercontent.com/91446639/232508185-d484e135-33d1-4d4c-9d31-3428007d5dd9.png)
 
+
+![Screenshot 2023-04-17 191009](https://user-images.githubusercontent.com/91446639/232509090-1c781b9a-b83c-4cb0-ab19-f0389f66be97.png)
 
 
